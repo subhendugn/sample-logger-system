@@ -1,0 +1,5 @@
+<configuration>
+    <outputFilePath>output1.txt</outputFilePath>
+    <timestampFormat>yyyy-MM-dd HH:mm:ss</timestampFormat>
+<!--    <timestampFormat>yyyy-MM-dd</timestampFormat>-->
+</configuration>
